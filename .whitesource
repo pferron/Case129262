@@ -1,8 +1,0 @@
-{
-  "scanSettings": {
-    "configMode": "AUTO"
-  },
-  "checkRunSettings": {
-    "strictMode": "failure"
-  }
-}
